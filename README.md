@@ -1,4 +1,4 @@
-# MITM Cats
+# Cat-In-The-Middle
 **Battle Cats MITM Mailbox Hack**
 
 _"Playing it like a fiddle."_
