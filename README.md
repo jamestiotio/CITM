@@ -11,6 +11,8 @@ This repository was made only for research and educational purposes. I am not pe
 
 Please support the developers of Battle Cats so that they can add more content for the players of Battle Cats! ヾ(°∇°*)
 
+*UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an in-game inquiry (for the purpose of responsible disclosure) but they just simply banned my savegame file, so... ¯\_(ツ)_/¯*
+
 ## Features
 
 1. This hack follows a Man-in-the-Middle (MITM) network approach instead of the usual save data modification (using transfer code and confirmation code). The latter would be more easily detected by the corresponding servers if playing online.
