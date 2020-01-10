@@ -11,7 +11,7 @@ This repository was made only for research and educational purposes. I am not pe
 
 Please support the developers of Battle Cats so that they can add more content for the players of Battle Cats! ヾ(°∇°*)
 
-*UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an in-game inquiry (for the purpose of responsible disclosure) but they just simply banned my savegame file, so... ¯\_(ツ)_/¯*
+*UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an in-game inquiry (for the purpose of responsible disclosure) with an added suggestion of encrypting the data being transmitted but they just simply banned my savegame file, so... ¯\_(ツ)_/¯*
 
 ## Features
 
