@@ -25,7 +25,7 @@ Please support the developers of Battle Cats so that they can add more content f
 
 ## Usage
 
-We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use Wireshark, Firebug, Charles Proxy, mitmproxy, etc. and I would assume that the steps would be similar. At the time of this writing, I was using Fiddler v5.0 (and it is working for Battle Cats v9.0).
+We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use Wireshark, Firebug, Charles Proxy, mitmproxy, etc. and I would assume that the steps would be similar. At the time of this writing, I was using Fiddler v5.0 (and it is working for Battle Cats v9.4).
 
 Firstly, connect your mobile device (or emulator) to your computer's Internet connection (possibly through the `Mobile Hotspot` feature).
 
