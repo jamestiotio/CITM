@@ -1,620 +1,620 @@
 [
   {
-    "itemId":0,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Speed Up"
+    "itemId": 0,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Speed Up"
   },
   {
-    "itemId":1,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Treasure Radar"
+    "itemId": 1,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Treasure Radar"
   },
   {
-    "itemId":2,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Rich Cat"
+    "itemId": 2,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Rich Cat"
   },
   {
-    "itemId":3,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat CPU"
+    "itemId": 3,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat CPU"
   },
   {
-    "itemId":4,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Jobs"
+    "itemId": 4,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Jobs"
   },
   {
-    "itemId":5,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Sniper the Cat"
+    "itemId": 5,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Sniper the Cat"
   },
   {
-    "itemId":6,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP"
+    "itemId": 6,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP"
   },
   {
-    "itemId":7,
-    "itemCategory":0,
-    "amount":100,
-    "title":"NP"
+    "itemId": 7,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "NP"
   },
   {
-    "itemId":8,
-    "itemCategory":0,
-    "amount":100,
-    "title":"dummy"
+    "itemId": 8,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "dummy"
   },
   {
-    "itemId":9,
-    "itemCategory":0,
-    "amount":100,
-    "title":"dummy"
+    "itemId": 9,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "dummy"
   },
   {
-    "itemId":10,
-    "itemCategory":0,
-    "amount":100,
-    "title":"5000 XP"
+    "itemId": 10,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "5000 XP"
   },
   {
-    "itemId":11,
-    "itemCategory":0,
-    "amount":100,
-    "title":"10000 XP"
+    "itemId": 11,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "10000 XP"
   },
   {
-    "itemId":12,
-    "itemCategory":0,
-    "amount":100,
-    "title":"30000 XP"
+    "itemId": 12,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "30000 XP"
   },
   {
-    "itemId":13,
-    "itemCategory":0,
-    "amount":100,
-    "title":"50000 XP"
+    "itemId": 13,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "50000 XP"
   },
   {
-    "itemId":14,
-    "itemCategory":0,
-    "amount":100,
-    "title":"100000 XP"
+    "itemId": 14,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "100000 XP"
   },
   {
-    "itemId":15,
-    "itemCategory":0,
-    "amount":100,
-    "title":"200000 XP"
+    "itemId": 15,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "200000 XP"
   },
   {
-    "itemId":16,
-    "itemCategory":0,
-    "amount":100,
-    "title":"500000 XP"
+    "itemId": 16,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "500000 XP"
   },
   {
-    "itemId":17,
-    "itemCategory":0,
-    "amount":100,
-    "title":"1000000 XP"
+    "itemId": 17,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "1000000 XP"
   },
   {
-    "itemId":18,
-    "itemCategory":0,
-    "amount":100,
-    "title":"2000000 XP"
+    "itemId": 18,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "2000000 XP"
   },
   {
-    "itemId":19,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP 500000"
+    "itemId": 19,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP 500000"
   },
   {
-    "itemId":20,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Ticket"
+    "itemId": 20,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Ticket"
   },
   {
-    "itemId":21,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Rare Ticket"
+    "itemId": 21,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Rare Ticket"
   },
   {
-    "itemId":22,
-    "itemCategory":0,
-    "amount":49999,
-    "title":"Cat Food"
+    "itemId": 22,
+    "itemCategory": 0,
+    "amount": 49999,
+    "title": "Cat Food"
   },
   {
-    "itemId":23,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 23,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":24,
-    "itemCategory":0,
-    "amount":100,
-    "title":""
+    "itemId": 24,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": ""
   },
   {
-    "itemId":25,
-    "itemCategory":0,
-    "amount":100,
-    "title":""
+    "itemId": 25,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": ""
   },
   {
-    "itemId":26,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 26,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":27,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 27,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":28,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 28,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":29,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Platinum Ticket"
+    "itemId": 29,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Platinum Ticket"
   },
   {
-    "itemId":30,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Purple Catfruit Seed"
+    "itemId": 30,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Purple Catfruit Seed"
   },
   {
-    "itemId":31,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Red Catfruit Seed"
+    "itemId": 31,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Red Catfruit Seed"
   },
   {
-    "itemId":32,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Blue Catfruit Seed"
+    "itemId": 32,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Blue Catfruit Seed"
   },
   {
-    "itemId":33,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Green Catfruit Seed"
+    "itemId": 33,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Green Catfruit Seed"
   },
   {
-    "itemId":34,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Yellow Catfruit Seed"
+    "itemId": 34,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Yellow Catfruit Seed"
   },
   {
-    "itemId":35,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Purple Catfruit"
+    "itemId": 35,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Purple Catfruit"
   },
   {
-    "itemId":36,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Red Catfruit"
+    "itemId": 36,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Red Catfruit"
   },
   {
-    "itemId":37,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Blue Catfruit"
+    "itemId": 37,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Blue Catfruit"
   },
   {
-    "itemId":38,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Green Catfruit"
+    "itemId": 38,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Green Catfruit"
   },
   {
-    "itemId":39,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Yellow Catfruit"
+    "itemId": 39,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Yellow Catfruit"
   },
   {
-    "itemId":40,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Epic Catfruit"
+    "itemId": 40,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Epic Catfruit"
   },
   {
-    "itemId":41,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Elder Catfruit Seed"
+    "itemId": 41,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Elder Catfruit Seed"
   },
   {
-    "itemId":42,
-    "itemCategory":0,
-    "amount":10,
-    "title":"Elder Catfruit"
+    "itemId": 42,
+    "itemCategory": 0,
+    "amount": 10,
+    "title": "Elder Catfruit"
   },
   {
-    "itemId":43,
-    "itemCategory":0,
-    "amount":100,
-    "title":""
+    "itemId": 43,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": ""
   },
   {
-    "itemId":44,
-    "itemCategory":0,
-    "amount":100,
-    "title":""
+    "itemId": 44,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": ""
   },
   {
-    "itemId":45,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 45,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":46,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 46,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":47,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 47,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":48,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 48,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":49,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 49,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":50,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catseye [Special]"
+    "itemId": 50,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catseye [Special]"
   },
   {
-    "itemId":51,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catseye [Rare]"
+    "itemId": 51,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catseye [Rare]"
   },
   {
-    "itemId":52,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catseye [Super Rare]"
+    "itemId": 52,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catseye [Super Rare]"
   },
   {
-    "itemId":53,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catseye [Uber Rare]"
+    "itemId": 53,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catseye [Uber Rare]"
   },
   {
-    "itemId":54,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catseye [Legend Rare]"
+    "itemId": 54,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catseye [Legend Rare]"
   },
   {
-    "itemId":55,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catamin [A]"
+    "itemId": 55,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catamin [A]"
   },
   {
-    "itemId":56,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catamin [B]"
+    "itemId": 56,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catamin [B]"
   },
   {
-    "itemId":57,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Catamin [C]"
+    "itemId": 57,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Catamin [C]"
   },
   {
-    "itemId":58,
-    "itemCategory":0,
-    "amount":100,
-    "title":""
+    "itemId": 58,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": ""
   },
   {
-    "itemId":59,
-    "itemCategory":0,
-    "amount":100,
-    "title":""
+    "itemId": 59,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": ""
   },
   {
-    "itemId":60,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Cannon Attack"
+    "itemId": 60,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Cannon Attack"
   },
   {
-    "itemId":61,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Cannon Range"
+    "itemId": 61,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Cannon Range"
   },
   {
-    "itemId":62,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Cannon Charge"
+    "itemId": 62,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Cannon Charge"
   },
   {
-    "itemId":63,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Worker Cat Rate"
+    "itemId": 63,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Worker Cat Rate"
   },
   {
-    "itemId":64,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Worker Cat Wallet"
+    "itemId": 64,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Worker Cat Wallet"
   },
   {
-    "itemId":65,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Base Defense"
+    "itemId": 65,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Base Defense"
   },
   {
-    "itemId":66,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Research"
+    "itemId": 66,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Research"
   },
   {
-    "itemId":67,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Accountant"
+    "itemId": 67,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Accountant"
   },
   {
-    "itemId":68,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Study"
+    "itemId": 68,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Study"
   },
   {
-    "itemId":69,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Energy"
+    "itemId": 69,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Energy"
   },
   {
-    "itemId":70,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Ally: Dummy 1"
+    "itemId": 70,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Ally: Dummy 1"
   },
   {
-    "itemId":71,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Ally: Dummy 2"
+    "itemId": 71,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Ally: Dummy 2"
   },
   {
-    "itemId":72,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Ally: Dummy 3"
+    "itemId": 72,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Ally: Dummy 3"
   },
   {
-    "itemId":73,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Ally: Dummy 4"
+    "itemId": 73,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Ally: Dummy 4"
   },
   {
-    "itemId":74,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Ally: Dummy 5"
+    "itemId": 74,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Ally: Dummy 5"
   },
   {
-    "itemId":75,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 75,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":76,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 76,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":77,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 77,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   },
   {
-    "itemId":78,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP 100000"
+    "itemId": 78,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP 100000"
   },
   {
-    "itemId":79,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Cat Ally: Dummy 10"
+    "itemId": 79,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Cat Ally: Dummy 10"
   },
   {
-    "itemId":80,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP"
+    "itemId": 80,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP"
   },
   {
-    "itemId":81,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP"
+    "itemId": 81,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP"
   },
   {
-    "itemId":82,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP"
+    "itemId": 82,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP"
   },
   {
-    "itemId":83,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP"
+    "itemId": 83,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP"
   },
   {
-    "itemId":84,
-    "itemCategory":0,
-    "amount":100,
-    "title":"XP"
+    "itemId": 84,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "XP"
   },
   {
-    "itemId":85,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Bricks"
+    "itemId": 85,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Bricks"
   },
   {
-    "itemId":86,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Feathers"
+    "itemId": 86,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Feathers"
   },
   {
-    "itemId":87,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Coal"
+    "itemId": 87,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Coal"
   },
   {
-    "itemId":88,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Sprockets"
+    "itemId": 88,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Sprockets"
   },
   {
-    "itemId":89,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Gold"
+    "itemId": 89,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Gold"
   },
   {
-    "itemId":90,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Meteorite"
+    "itemId": 90,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Meteorite"
   },
   {
-    "itemId":91,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Beast Bones"
+    "itemId": 91,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Beast Bones"
   },
   {
-    "itemId":92,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Engineers"
+    "itemId": 92,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Engineers"
   },
   {
-    "itemId":93,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 93,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":94,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 94,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   },
   {
-    "itemId":95,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 95,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   },
   {
-    "itemId":96,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 96,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   },
   {
-    "itemId":97,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 97,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   },
   {
-    "itemId":98,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 98,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   },
   {
-    "itemId":99,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 99,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":100,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 100,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   },
   {
-    "itemId":101,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket"
+    "itemId": 101,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   },
   {
-    "itemId":102,
-    "itemCategory":0,
-    "amount":100,
-    "title":"Lucky Ticket G"
+    "itemId": 102,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
   }
 ]

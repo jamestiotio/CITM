@@ -20,7 +20,7 @@ def main():
         cat_list.append({"itemId":int(id),"itemCategory":1,"amount":100,"title":str(name)})
     
     with open("cat_list.json", "w+") as f:
-        f.write(json.dumps(cat_list, sort_keys=True, indent=2))      
+        f.write(json.dumps(cat_list, sort_keys=False, indent=2))      
 
 
 if __name__ == '__main__':
