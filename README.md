@@ -48,26 +48,26 @@ Through `TextView` on Fiddler's `Inspectors` tab, you would be able to edit the 
 ```json
 [
   {
-    "id":1,
-    "accountId":"<your-account-id>",
-    "title":"Items",
-    "body":"",
-    "clientVersion":90400,
-    "country":"en",
-    "accepted":null,
-    "created":<unix-timestamp>,
-    "items":<item-list>
+    "id": 1,
+    "accountId": "<your-account-id>",
+    "title": "Items",
+    "body": "",
+    "clientVersion": 90400,
+    "country": "en",
+    "accepted": null,
+    "created": <unix-timestamp>,
+    "items": <item-list>
   },
   {
-    "id":2,
-    "accountId":"<your-account-id>",
-    "title":"Cats",
-    "body":"",
-    "clientVersion":90400,
-    "country":"en",
-    "accepted":null,
-    "created":<unix-timestamp>,
-    "items":<cat-list>
+    "id": 2,
+    "accountId": "<your-account-id>",
+    "title": "Cats",
+    "body": "",
+    "clientVersion": 90400,
+    "country": "en",
+    "accepted": null,
+    "created": <unix-timestamp>,
+    "items": <cat-list>
   }
 ]
 ```
