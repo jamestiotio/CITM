@@ -11,7 +11,9 @@ This repository was made only for research and educational purposes. I am not pe
 
 Please support the developers of Battle Cats so that they can add more content for the players of Battle Cats! ヾ(°∇°*)
 
-*UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an in-game inquiry (for the purpose of responsible disclosure) with an added suggestion of encrypting the data being transmitted but they just simply banned my savegame file, so... ¯\_(ツ)_/¯*
+*UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) (for the purpose of responsible disclosure) with an added suggestion of encrypting the data being transmitted but they just simply banned my savegame file, so... ¯\_(ツ)_/¯*
+
+> I am currently contacting PONOS Games through [email](mailto:support_en@bc01.ponos.net) and through their [contact/inquiry page](https://www.ponos.jp/contact/inquiry/) to check with them and update them regarding this MitM vulnerability. I will post more updates if they get back to me with any kind of statements/news/notices/messages/reports/accounts.
 
 ## Features
 
@@ -73,7 +75,7 @@ Through `TextView` on Fiddler's `Inspectors` tab, you would be able to edit the 
 ```
 
 > You should modify the value of `country` to your respective region defined by PONOS.
-  
+
 > Also, just to clarify, the value of `itemCategory` indicates the type of item that the user will receive (`0` is `Items` and `1` is `Cats`).
 
 Edit the values of `<your-account-id>`, `<unix-timestamp>`, `<item-list>` and `<cat-list>` accordingly to valid values. Pick your item or/and cat choices from the lists provided (`cat_list.json` and `item_list.json`) and feel free to edit the `"amount"`. `"title"` can also be changed to whatever you like.
