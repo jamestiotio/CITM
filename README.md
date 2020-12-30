@@ -92,7 +92,7 @@ Click the `Accept` button and it will send a `POST` request to `https://nyanko-i
 
 ```http
 HTTP/1.1 200 OK
-Date: Day, DD MMM YYYY HR:MN:SC GMT
+Date: Day, DD MMM YYYY HH:MM:SS GMT
 Content-Type: text/html; charset=UTF-8
 Content-Length: <some-integer>
 Connection: keep-alive
@@ -101,7 +101,7 @@ Server: Apache
 
 ```
 
-Replace `Day`, `DD`, `MMM`, `YYYY`, `HR`, `MN` and `SC` accordingly. The value of `<some-integer>` should be consistent for both the `GET` and the `POST` requests.
+Replace `Day`, `DD`, `MMM`, `YYYY`, `HH`, `MM` and `SS` accordingly. The value of `<some-integer>` should be consistent for both the `GET` and the `POST` requests.
 
 ![fiddler-hexview](./assets/images/fiddler-hexview.png)
 
