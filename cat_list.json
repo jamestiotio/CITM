@@ -375,7 +375,7 @@
     "itemId": 62,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Capsule Cat (B)"
+    "title": "Pon Cat"
   },
   {
     "itemId": 63,
@@ -495,7 +495,7 @@
     "itemId": 82,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Blue Shinobi"
+    "title": "Blue Ninja Cat"
   },
   {
     "itemId": 83,
@@ -663,7 +663,7 @@
     "itemId": 110,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Seresu"
+    "title": "Celesse"
   },
   {
     "itemId": 111,
@@ -675,13 +675,13 @@
     "itemId": 112,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Oruga"
+    "title": "Olga"
   },
   {
     "itemId": 113,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Norun"
+    "title": "Norn"
   },
   {
     "itemId": 114,
@@ -693,13 +693,13 @@
     "itemId": 115,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Seramu"
+    "title": "Serum"
   },
   {
     "itemId": 116,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Fuu (EN: Satsuki)"
+    "title": "Fuu"
   },
   {
     "itemId": 117,
@@ -717,13 +717,13 @@
     "itemId": 119,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Wyburn"
+    "title": "Wyvern"
   },
   {
     "itemId": 120,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Magical Healer"
+    "title": "Healer"
   },
   {
     "itemId": 121,
@@ -885,7 +885,7 @@
     "itemId": 147,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Tin Cat\n(lit: burikineko)"
+    "title": "Tin Cat (Burikineko)"
   },
   {
     "itemId": 148,
@@ -897,7 +897,7 @@
     "itemId": 149,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Mer-Cat\n(Man-fish cat / lit: Neko nin-sakana)"
+    "title": "Mer-Cat (Neko Nin-sakana)"
   },
   {
     "itemId": 150,
@@ -927,13 +927,13 @@
     "itemId": 154,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Hoop Cat\n(lit: Neko fuu-pu)"
+    "title": "Hoop Cat (Neko Fuu-pu)"
   },
   {
     "itemId": 155,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Chicken Cat\n(Nobenyan)"
+    "title": "Chicken Cat (Nobenyan)"
   },
   {
     "itemId": 156,
@@ -1077,19 +1077,19 @@
     "itemId": 179,
     "itemCategory": 1,
     "amount": 100,
-    "title": " (Lit: Takuya to Yuki, Takuya and Yuki)"
+    "title": "Takuya & Yuki (Takuya to Yuki)"
   },
   {
     "itemId": 180,
     "itemCategory": 1,
     "amount": 100,
-    "title": " (Lit: Nazo no shjo Yuki, Mysterious Girl Yuki)"
+    "title": "Mystery Girl Yuki (Nazo no shjo Yuki)"
   },
   {
     "itemId": 181,
     "itemCategory": 1,
     "amount": 100,
-    "title": " (Lit: Yukinyan , Snow Cat )"
+    "title": "Yuki Cat (Yukinyan)"
   },
   {
     "itemId": 182,
@@ -1113,13 +1113,13 @@
     "itemId": 185,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Harushuto"
+    "title": "Hearscht"
   },
   {
     "itemId": 186,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Kooneria (Cornelia)"
+    "title": "Cornelia"
   },
   {
     "itemId": 187,
@@ -1131,19 +1131,19 @@
     "itemId": 188,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Misutika"
+    "title": "Mystica"
   },
   {
     "itemId": 189,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Aroisu"
+    "title": "Alois"
   },
   {
     "itemId": 190,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Shitoruiyu"
+    "title": "Citrouille"
   },
   {
     "itemId": 191,
@@ -1179,7 +1179,7 @@
     "itemId": 196,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Catman ( Kyattomandadi,  Cat Man Daddy? )"
+    "title": "Catman ( Kyattomandadi,  Cat Man Daddy )"
   },
   {
     "itemId": 197,
@@ -1215,7 +1215,7 @@
     "itemId": 202,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Baozi Cat  ( Shronp nyan ko, Alt: Chi(isai)kagotsutumi-nyanko)"
+    "title": "Baozi Cat"
   },
   {
     "itemId": 203,
@@ -1395,31 +1395,31 @@
     "itemId": 232,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Hikari no Kamito Vahakiri ,  , God of light's disciple - Valkyrie (Valhakyrie?)"
+    "title": "Junior God of Light - Valkyrie"
   },
   {
     "itemId": 233,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Kamito Buryunhirude ,  , God's disciple - Brynhildr"
+    "title": "Junior God Brynhildr"
   },
   {
     "itemId": 234,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Kamito Suruzu ,  , God's disciple - Suruzu"
+    "title": "Junior God Suruzu"
   },
   {
     "itemId": 235,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Hojo no Megami Fureiya ,  , Goddess of richness (harvest) - Freya"
+    "title": "Goddess of Abundance - Freya"
   },
   {
     "itemId": 236,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Gunshin Odin ,  , Battle god - Odin"
+    "title": "God of War - Odin"
   },
   {
     "itemId": 237,
@@ -1497,7 +1497,7 @@
     "itemId": 249,
     "itemCategory": 1,
     "amount": 100,
-    "title": "C&G Swordsman"
+    "title": "C&D Swordsman"
   },
   {
     "itemId": 250,
@@ -1689,7 +1689,7 @@
     "itemId": 281,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Futenyan(Lit:Futenyan, indeterminate cat)"
+    "title": "Futenyan (Indeterminate Cat)"
   },
   {
     "itemId": 282,
@@ -1719,7 +1719,7 @@
     "itemId": 286,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Strike Unit R.E.I. (lit:Flashing thunder machine soldier - Ray)"
+    "title": "Strike Unit R.E.I. (Flashing Thunder Machine Soldier - Ray)"
   },
   {
     "itemId": 287,
@@ -1851,7 +1851,7 @@
     "itemId": 308,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Gardener Cat (  / basami actually means either scissor or laundry clips)"
+    "title": "Gardener Cat ( ; Basami = scissor or laundry clips)"
   },
   {
     "itemId": 309,
@@ -1935,7 +1935,7 @@
     "itemId": 322,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Sarukani (lit., , Monkey-Crab Battle), based on The Crab and the Monkey"
+    "title": "Sarukani (, Monkey-Crab Battle)"
   },
   {
     "itemId": 323,
@@ -2043,7 +2043,7 @@
     "itemId": 340,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Red-haired Snow Cat()"
+    "title": "Redhead Yuki Cat (Rare Cat)()"
   },
   {
     "itemId": 341,
@@ -2067,7 +2067,7 @@
     "itemId": 344,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Orutosu ()"
+    "title": "Orthos ()"
   },
   {
     "itemId": 345,
@@ -2121,7 +2121,7 @@
     "itemId": 353,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Chocolate Cat ()"
+    "title": "Cat Slave Chocolate"
   },
   {
     "itemId": 354,
@@ -2571,19 +2571,19 @@
     "itemId": 428,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Somanyan (, Lit: Souma Cat)"
+    "title": "Souma Cat ()"
   },
   {
     "itemId": 429,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Otanekogiiku (, Lit: Geek Otaku Cat)"
+    "title": "Otaku Geek Cat (, Otanekogiiku)"
   },
   {
     "itemId": 430,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Gudenekomashin (, Lit: Gude-Cat Machine)"
+    "title": "Gudenekomashin (, Gude-Cat Machine)"
   },
   {
     "itemId": 431,
@@ -2607,7 +2607,7 @@
     "itemId": 434,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Shiro Nyanko Kenshi ( , lit: White Swordsman Cat)"
+    "title": "Shiro Nyanko Kenshi ( , White Swordsman Cat)"
   },
   {
     "itemId": 435,
@@ -2811,7 +2811,7 @@
     "itemId": 468,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Saint Pheonix"
+    "title": "Holy Phoenix"
   },
   {
     "itemId": 469,
@@ -2823,49 +2823,49 @@
     "itemId": 470,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Satan Maria"
+    "title": "Satanmaria"
   },
   {
     "itemId": 471,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Herchrist"
+    "title": "Heracrist"
   },
   {
     "itemId": 472,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Nero Mashin"
+    "title": "Fiendish Nero"
   },
   {
     "itemId": 473,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Yamato Ouji"
+    "title": "Prince Yamato"
   },
   {
     "itemId": 474,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Crucifix Angel"
+    "title": "Rosary Angel"
   },
   {
     "itemId": 475,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Wakagamiko Cat"
+    "title": "Wakamiko Cat"
   },
   {
     "itemId": 476,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Devil Cat"
+    "title": "Cat Devil"
   },
   {
     "itemId": 477,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Assistant Cat"
+    "title": "Nekonosuke"
   },
   {
     "itemId": 478,
@@ -2895,19 +2895,19 @@
     "itemId": 482,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Soma the Boy Who Desires Happiness"
+    "title": "Benevolent Souma"
   },
   {
     "itemId": 483,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Kano and Soma ()"
+    "title": "Kano & Souma"
   },
   {
     "itemId": 484,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Li'l Valyrie Dark"
+    "title": "Li'l Valkyrie Dark"
   },
   {
     "itemId": 485,
@@ -2919,7 +2919,7 @@
     "itemId": 486,
     "itemCategory": 1,
     "amount": 100,
-    "title": "Hina (, Hina)"
+    "title": "Hina ()"
   },
   {
     "itemId": 487,
@@ -3238,5 +3238,287 @@
     "itemCategory": 1,
     "amount": 100,
     "title": "Rugby Cat"
+  },
+  {
+    "itemId": 540,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "U.F.O. Cat"
+  },
+  {
+    "itemId": 541,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Yakisoba Cat"
+  },
+  {
+    "itemId": 542,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Cat Boy"
+  },
+  {
+    "itemId": 543,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Kasli the Bane"
+  },
+  {
+    "itemId": 544,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Kyosaka Nanaho"
+  },
+  {
+    "itemId": 545,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Phantom Cat"
+  },
+  {
+    "itemId": 546,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Papaluga"
+  },
+  {
+    "itemId": 547,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": ""
+  },
+  {
+    "itemId": 548,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": ""
+  },
+  {
+    "itemId": 549,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": ""
+  },
+  {
+    "itemId": 550,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": ""
+  },
+  {
+    "itemId": 551,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": ""
+  },
+  {
+    "itemId": 552,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": ""
+  },
+  {
+    "itemId": 553,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Bakery Cat"
+  },
+  {
+    "itemId": 554,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Master Uril"
+  },
+  {
+    "itemId": 555,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Shaman Khan"
+  },
+  {
+    "itemId": 556,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Holy Knight Alibaba"
+  },
+  {
+    "itemId": 557,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Heavenly Jack"
+  },
+  {
+    "itemId": 558,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Gacha Cat"
+  },
+  {
+    "itemId": 559,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Hell Warden Emma"
+  },
+  {
+    "itemId": 560,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Megurine Luka"
+  },
+  {
+    "itemId": 561,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "MEIKO & Cat"
+  },
+  {
+    "itemId": 562,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Luka Cat"
+  },
+  {
+    "itemId": 563,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Squirtgun Saki"
+  },
+  {
+    "itemId": 564,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Summerluga"
+  },
+  {
+    "itemId": 565,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Suntan Cat"
+  },
+  {
+    "itemId": 566,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Lifeguard Cats"
+  },
+  {
+    "itemId": 567,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Li'l Clops Cat Egg"
+  },
+  {
+    "itemId": 568,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Idi:N"
+  },
+  {
+    "itemId": 569,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Gravi"
+  },
+  {
+    "itemId": 570,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Skull Rider Vars"
+  },
+  {
+    "itemId": 571,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "E. Honda"
+  },
+  {
+    "itemId": 572,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Balrog"
+  },
+  {
+    "itemId": 573,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Vega"
+  },
+  {
+    "itemId": 574,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Sagat"
+  },
+  {
+    "itemId": 575,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "M. Bison"
+  },
+  {
+    "itemId": 576,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "C. Honda"
+  },
+  {
+    "itemId": 577,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "M. Bison Cat"
+  },
+  {
+    "itemId": 578,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Balrog Cat"
+  },
+  {
+    "itemId": 579,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Sagat Cat"
+  },
+  {
+    "itemId": 580,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Vega Cat"
+  },
+  {
+    "itemId": 581,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "581-1"
+  },
+  {
+    "itemId": 582,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Hatsune Miku: MM2020 Osaka"
+  },
+  {
+    "itemId": 583,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Hatsune Miku: MM2020 Tokyo"
+  },
+  {
+    "itemId": 584,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Keiji Claus"
+  },
+  {
+    "itemId": 585,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Baby Garu"
+  },
+  {
+    "itemId": 586,
+    "itemCategory": 1,
+    "amount": 100,
+    "title": "Emperor Cat"
   }
 ]
