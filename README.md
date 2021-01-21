@@ -58,7 +58,7 @@ Through `TextView` on Fiddler's `Inspectors` tab, you would be able to edit the 
     "accountId": "<your-account-id>",
     "title": "Items",
     "body": "",
-    "clientVersion": 90400,
+    "clientVersion": 90700,
     "country": "en",
     "accepted": null,
     "created": <unix-timestamp>,
