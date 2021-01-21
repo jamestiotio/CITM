@@ -27,13 +27,17 @@ Please support the developers of Battle Cats so that they can add more content f
 
 ## Usage
 
-We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use Wireshark, Firebug, Charles Proxy, mitmproxy, etc. and I would assume that the steps would be similar. At the time of this writing, I was using Fiddler v5.0 (and it is working for Battle Cats v9.4).
+> I will develop the `autohack.sh` script further (with maybe a Python script add-on) and maybe add some clearer `.gif` tutorial video recordings when I am less busy and have more time.
+
+We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use Wireshark, Firebug, Charles Proxy, mitmproxy, etc. and I would assume that the steps would be similar. At the time of this writing, I was using Fiddler v5.0 (and it is working for Battle Cats v9.7).
 
 Firstly, connect your mobile device (or emulator) to your computer's Internet connection (possibly through the `Mobile Hotspot` feature).
 
 Next, setup your Fiddler to decrypt HTTPS traffic through SSL proxying (follow [this tutorial](https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/DecryptHTTPS)).
 
 After that, configure your mobile device to pass their HTTPS traffic to Fiddler (follow [this tutorial](https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureForiOS) for iOS devices or [this tutorial](https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureForAndroid) for Android devices). Do take note that without rooting, this method will only work with Android versions before `Nougat` (< 7.0). Beyond Android `Nougat`, root access would be required.
+
+> You can Google how to root an Android device. After rooting, you can refer to [this page](https://android-developers.googleblog.com/2016/07/changes-to-trusted-certificate.html) to check how to install System-Trusted Certificate Authorities (maybe can use [Magisk](https://github.com/topjohnwu/Magisk)?).
 
 Once the traffic is re-routed through your computer, set a filter in Fiddler's `Filters` tab to show only the host `nyanko-items.ponosgames.com` and tick the options `Break request on POST` and `Break request on GET with query string`. After the filter setup is done, go to `Actions` and press `Run Filterset now`.
 
@@ -65,20 +69,44 @@ Through `TextView` on Fiddler's `Inspectors` tab, you would be able to edit the 
     "accountId": "<your-account-id>",
     "title": "Cats",
     "body": "",
-    "clientVersion": 90400,
+    "clientVersion": 90700,
     "country": "en",
     "accepted": null,
     "created": <unix-timestamp>,
     "items": <cat-list>
+  },
+  {
+    "id": 3,
+    "accountId": "<your-account-id>",
+    "title": "True Form Cats",
+    "body": "",
+    "clientVersion": 90700,
+    "country": "en",
+    "accepted": null,
+    "created": <unix-timestamp>,
+    "items": <true-form-cat-list>
+  },
+  {
+    "id": 4,
+    "accountId": "<your-account-id>",
+    "title": "Talent Orbs",
+    "body": "",
+    "clientVersion": 90700,
+    "country": "en",
+    "accepted": null,
+    "created": <unix-timestamp>,
+    "items": <talent-orb-list>
   }
 ]
 ```
 
 > You should modify the value of `country` to your respective region defined by PONOS.
 
-> Also, just to clarify, the value of `itemCategory` indicates the type of item that the user will receive (`0` is `Items` and `1` is `Cats`).
+> Also, just to clarify, the value of `itemCategory` indicates the type of item that the user will receive (`0` is `Items`, `1` is `Cats`, `3` is `True Form Cats` and `4` is `Talent Orbs`).
 
-Edit the values of `<your-account-id>`, `<unix-timestamp>`, `<item-list>` and `<cat-list>` accordingly to valid values. Pick your item or/and cat choices from the lists provided (`cat_list.json` and `item_list.json`) and feel free to edit the `"amount"`. `"title"` can also be changed to whatever you like.
+Edit the values of `<your-account-id>`, `<unix-timestamp>`, `<item-list>`, `<cat-list>`, `<true-form-cat-list>` and `<talent-orb-list>` accordingly to valid values. Pick your item, cat, true form cat or/and talent orb choices from the lists provided ([`cat_list.json`](./cat_list.json), [`true_form_cat_list.json`](./true_form_cat_list.json), [`item_list.json`](./item_list.json) and [`talent_orb_list.json`](./talent_orb_list.json)) and feel free to edit the `"amount"`. `"title"` can also be changed to whatever you like.
+
+> For True Form Cats, ensure that the specified Cat actually has a True Form (since not all Cats have True Forms). You can verify against the list on the Battle Cats Wikia on Fandom [here](https://battle-cats.fandom.com/wiki/True_Form).
 
 Forward the response to Battle Cats by clicking `Run to Completion` and it will show the items in the Mailbox.
 
@@ -111,4 +139,5 @@ The corresponding items/cats would then be added to your inventory. Do remember 
 
 ## Acknowledgements
 
-Credits to [this Reddit post](https://www.reddit.com/r/BattleCatsCheats/comments/a775je/mailbox_hack_mitm_proxy/) for the original hacking method.
+- Credits to [this Reddit post](https://redd.it/a775je) made by [`u/cmrny`](https://reddit.com/u/cmrny) for the original hacking method, which was actually apparently inspired by [this older post](https://redd.it/2nvmlc) made by [`u/EasyMoneko`](https://reddit.com/u/EasyMoneko), who was an active and very helpful user on the [Battle Cats Subreddit](https://reddit.com/r/battlecats).
+- Someone by the username of [`u/NekoB0x`](https://reddit.com/u/NekoB0x) on Reddit, inspired by this repository and the original Reddit post, made an instructional step-by-step tutorial on how to execute this hack on an Android device using `termux`, `iptables` and `mitmproxy`, which you can follow [here](https://redd.it/gsidq5).

@@ -1,0 +1,392 @@
+[
+  {
+    "itemId": 0,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up D: Red"
+  },
+  {
+    "itemId": 1,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up C: Red"
+  },
+  {
+    "itemId": 2,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up B: Red"
+  },
+  {
+    "itemId": 3,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up A: Red"
+  },
+  {
+    "itemId": 4,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up S: Red"
+  },
+  {
+    "itemId": 5,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up D: Red"
+  },
+  {
+    "itemId": 6,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up C: Red"
+  },
+  {
+    "itemId": 7,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up B: Red"
+  },
+  {
+    "itemId": 8,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up A: Red"
+  },
+  {
+    "itemId": 9,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up S: Red"
+  },
+  {
+    "itemId": 10,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up D: Floating"
+  },
+  {
+    "itemId": 11,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up C: Floating"
+  },
+  {
+    "itemId": 12,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up B: Floating"
+  },
+  {
+    "itemId": 13,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up A: Floating"
+  },
+  {
+    "itemId": 14,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up S: Floating"
+  },
+  {
+    "itemId": 15,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up D: Floating"
+  },
+  {
+    "itemId": 16,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up C: Floating"
+  },
+  {
+    "itemId": 17,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up B: Floating"
+  },
+  {
+    "itemId": 18,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up A: Floating"
+  },
+  {
+    "itemId": 19,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up S: Floating"
+  },
+  {
+    "itemId": 20,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up D: Black"
+  },
+  {
+    "itemId": 21,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up C: Black"
+  },
+  {
+    "itemId": 22,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up B: Black"
+  },
+  {
+    "itemId": 23,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up A: Black"
+  },
+  {
+    "itemId": 24,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up S: Black"
+  },
+  {
+    "itemId": 25,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up D: Black"
+  },
+  {
+    "itemId": 26,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up C: Black"
+  },
+  {
+    "itemId": 27,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up B: Black"
+  },
+  {
+    "itemId": 28,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up A: Black"
+  },
+  {
+    "itemId": 29,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up S: Black"
+  },
+  {
+    "itemId": 30,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up D: Metal"
+  },
+  {
+    "itemId": 31,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up C: Metal"
+  },
+  {
+    "itemId": 32,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up B: Metal"
+  },
+  {
+    "itemId": 33,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up A: Metal"
+  },
+  {
+    "itemId": 34,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up S: Metal"
+  },
+  {
+    "itemId": 35,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up D: Angel"
+  },
+  {
+    "itemId": 36,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up C: Angel"
+  },
+  {
+    "itemId": 37,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up B: Angel"
+  },
+  {
+    "itemId": 38,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up A: Angel"
+  },
+  {
+    "itemId": 39,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up S: Angel"
+  },
+  {
+    "itemId": 40,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up D: Angel"
+  },
+  {
+    "itemId": 41,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up C: Angel"
+  },
+  {
+    "itemId": 42,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up B: Angel"
+  },
+  {
+    "itemId": 43,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up A: Angel"
+  },
+  {
+    "itemId": 44,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up S: Angel"
+  },
+  {
+    "itemId": 45,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up D: Alien"
+  },
+  {
+    "itemId": 46,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up C: Alien"
+  },
+  {
+    "itemId": 47,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up B: Alien"
+  },
+  {
+    "itemId": 48,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up A: Alien"
+  },
+  {
+    "itemId": 49,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up S: Alien"
+  },
+  {
+    "itemId": 50,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up D: Alien"
+  },
+  {
+    "itemId": 51,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up C: Alien"
+  },
+  {
+    "itemId": 52,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up B: Alien"
+  },
+  {
+    "itemId": 53,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up A: Alien"
+  },
+  {
+    "itemId": 54,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up S: Alien"
+  },
+  {
+    "itemId": 55,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up D: Zombie"
+  },
+  {
+    "itemId": 56,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up C: Zombie"
+  },
+  {
+    "itemId": 57,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up B: Zombie"
+  },
+  {
+    "itemId": 58,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up A: Zombie"
+  },
+  {
+    "itemId": 59,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Attack Up S: Zombie"
+  },
+  {
+    "itemId": 60,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up D: Zombie"
+  },
+  {
+    "itemId": 61,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up C: Zombie"
+  },
+  {
+    "itemId": 62,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up B: Zombie"
+  },
+  {
+    "itemId": 63,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up A: Zombie"
+  },
+  {
+    "itemId": 64,
+    "itemCategory": 4,
+    "amount": 100,
+    "title": "Defense Up S: Zombie"
+  }
+]

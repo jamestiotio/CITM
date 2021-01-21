@@ -147,13 +147,13 @@
     "itemId": 24,
     "itemCategory": 0,
     "amount": 100,
-    "title": ""
+    "title": "null"
   },
   {
     "itemId": 25,
     "itemCategory": 0,
     "amount": 100,
-    "title": ""
+    "title": "null"
   },
   {
     "itemId": 26,
@@ -261,13 +261,13 @@
     "itemId": 43,
     "itemCategory": 0,
     "amount": 100,
-    "title": ""
+    "title": "Epic Catfruit Seed"
   },
   {
     "itemId": 44,
     "itemCategory": 0,
     "amount": 100,
-    "title": ""
+    "title": "dummy"
   },
   {
     "itemId": 45,
@@ -351,13 +351,13 @@
     "itemId": 58,
     "itemCategory": 0,
     "amount": 100,
-    "title": ""
+    "title": "dummy"
   },
   {
     "itemId": 59,
     "itemCategory": 0,
     "amount": 100,
-    "title": ""
+    "title": "dummy"
   },
   {
     "itemId": 60,
@@ -616,5 +616,149 @@
     "itemCategory": 0,
     "amount": 100,
     "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 103,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 104,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
+  },
+  {
+    "itemId": 105,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Leadership"
+  },
+  {
+    "itemId": 106,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 107,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
+  },
+  {
+    "itemId": 108,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
+  },
+  {
+    "itemId": 109,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 110,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 111,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "null"
+  },
+  {
+    "itemId": 112,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
+  },
+  {
+    "itemId": 113,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 114,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 115,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 116,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
+  },
+  {
+    "itemId": 117,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
+  },
+  {
+    "itemId": 118,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 119,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 120,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 121,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 122,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
+  },
+  {
+    "itemId": 123,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Restart Pack"
+  },
+  {
+    "itemId": 124,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 125,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket G"
+  },
+  {
+    "itemId": 126,
+    "itemCategory": 0,
+    "amount": 100,
+    "title": "Lucky Ticket"
   }
 ]
