@@ -100,7 +100,7 @@ Through `TextView` on Fiddler's `Inspectors` tab, you would be able to edit the 
 ]
 ```
 
-> You should modify the value of `country` to your respective region defined by PONOS.
+> You should modify the value of `country` to your respective region defined by PONOS. Possible values include (but might not be limited to): `en`, `jp` and `tw`.
 
 > Also, just to clarify, the value of `itemCategory` indicates the type of item that the user will receive (`0` is `Items`, `1` is `Cats`, `3` is `True Form Cats` and `4` is `Talent Orbs`).
 
