@@ -140,4 +140,4 @@ The corresponding items/cats would then be added to your inventory. Do remember 
 ## Acknowledgements
 
 - Credits to [this Reddit post](https://redd.it/a775je) made by [`u/cmrny`](https://reddit.com/u/cmrny) for the original hacking method, which was actually apparently inspired by [this older post](https://redd.it/2nvmlc) made by [`u/EasyMoneko`](https://reddit.com/u/EasyMoneko), who was an active and very helpful user on the [Battle Cats Subreddit](https://reddit.com/r/battlecats).
-- Someone by the username of [`u/NekoB0x`](https://reddit.com/u/NekoB0x) on Reddit, inspired by this repository and the original Reddit post, made an instructional step-by-step tutorial on how to execute this hack on an Android device using `termux`, `iptables` and `mitmproxy`, which you can follow [here](https://redd.it/gsidq5).
+- Someone by the username of [`u/NekoB0x`](https://reddit.com/u/NekoB0x) on Reddit, inspired by this repository and the original Reddit post, made an instructional step-by-step tutorial on how to execute this hack on an Android device using `termux`, `iptables` and `mitmproxy`. You can go check it out and follow its steps [here](https://redd.it/gsidq5)!
