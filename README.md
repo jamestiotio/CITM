@@ -1,17 +1,24 @@
 # Cat-In-The-Middle
+
 **Battle Cats MITM Mailbox Hack**
 
 _"Playing it like a fiddle."_
 
 This mailbox hack allows players to acquire items and/or cats of their choice.
 
+## NOTICE
+
+This method does not seem to work any more for versions above v11.1.0 (at least not without root/jailbreak access), possibly due to either [Certificate Pinning](http://fiddler.wikidot.com/certpinning) or usage of nonces to prevent replay attacks. While I am not entirely sure at which exact version this was patched, I would assume that it's around v11.1.0 (as mentioned [here](https://github.com/jamestiotio/CITM/issues/7)). If Certificate Pinning was implemented, it might be possible to remove the pinned certificate or replace it with a self-signed certificate from Fiddler from the APK/IPA binary file of the application, but this requires root/jailbreak access (and it might be too difficult for the layperson to execute without some kind of automation script to help them do it). Unfortunately, I do not currently possess any rooted/jailbroken devices, and thus, I am unable to test this theory out. If someone else is able to conduct further investigations into this, feel free to report your findings and maybe put up an issue/PR about it.
+
+That said, PONOS had never informed me formally/officially about this patch, even after I had responsibly disclosed this issue to them. They might have figured it out internally by themselves and decided to not inform me about it at all (or forgot to inform me).
+
 ## Disclaimer
 
 This repository was made only for research and educational purposes. I am not personally responsible in any way for any unethical malpractices because of this tool. If [PONOS](https://www.ponos.jp/) were to approach me to take down, archive or privatise this repository, I will be obliged to follow their will.
 
-Please support the developers of Battle Cats so that they can add more content for the players of Battle Cats! ヾ(°∇°*)
+Please support the developers of Battle Cats so that they can add more content for the players of Battle Cats! ヾ(°∇°\*)
 
-*UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) (for the purpose of responsible disclosure) with an added suggestion of encrypting the data being transmitted but they just simply banned my savegame file, so... ¯\_(ツ)_/¯*
+_UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) (for the purpose of responsible disclosure) with an added suggestion of encrypting the data being transmitted but they just simply banned my savegame file, so... ¯\_(ツ)\_/¯_
 
 > I am currently contacting PONOS Games through [email](mailto:support_en@bc01.ponos.net) and through their [contact/inquiry page](https://www.ponos.jp/contact/inquiry/) to check with them and update them regarding this MitM vulnerability. I will post more updates if they get back to me with any kind of statements/news/notices/messages/reports/accounts.
 
@@ -19,7 +26,7 @@ Please support the developers of Battle Cats so that they can add more content f
 
 1. This hack follows a Man-in-the-Middle (MITM) network approach instead of the usual save data modification (using transfer code and confirmation code). The latter would be more easily detected by the corresponding servers if playing online.
 
-2. This method would not require any jailbreaking, rooting or any game cheating/hacking software, except for cases of usage with  Android versions beyond `Nougat` (>= 7.0).
+2. This method would not require any jailbreaking, rooting or any game cheating/hacking software, except for cases of usage with Android versions beyond `Nougat` (>= 7.0).
 
 3. As far as I know, this method is also region-insensitive since it just utilizes the main Internet connection to `ponosgames.com`, instead of taking advantage of region-specific package names and hash salts.
 
