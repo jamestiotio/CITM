@@ -14,7 +14,7 @@ Please support the developers of Battle Cats so that they can add more content f
 
 As part of responsible disclosure, on 9 Jan 2020, I contacted PONOS Games through [email](mailto:support_en@bc01.ponos.net), [contact/inquiry page](https://www.ponos.jp/contact/inquiry/), and [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) to check with them and update them regarding this MitM vulnerability issue. I have also suggested encrypting the data being transmitted, but they just simply banned my savegame file, so... ¯\_(ツ)\_/¯\_
 
-As of Battle Cats version 11.1.0, it seems that [Certificate Pinning](http://fiddler.wikidot.com/certpinning) was implemented. That said, PONOS had never informed me formally/officially about this patch, even after I had responsibly disclosed this issue to them. They might have figured it out internally by themselves and decided to not inform me about it at all (or forgot to inform me).
+As of Battle Cats version 11.1.0, it seems that [Certificate Pinning](http://fiddler.wikidot.com/certpinning) and nonces were implemented. That said, PONOS had never informed me formally/officially about this patch, even after I had responsibly disclosed this issue to them. They might have figured it out internally by themselves and decided to not inform me about it at all (or forgot to inform me).
 
 ## Features
 
@@ -24,7 +24,7 @@ As of Battle Cats version 11.1.0, it seems that [Certificate Pinning](http://fid
 
 3. This method allows users to specifically curate the list of items or/and cats (including expendables like Rare Tickets, Treasure Radars, EXP and Cat Food) that they desire to obtain (such as retrieving cat units locked based on story progress or past limited-edition cat units).
 
-4. Unfortunately, as of version 11.1.0, this method would require rooting/jailbreaking (as mentioned [here](https://github.com/jamestiotio/CITM/issues/7)) due to Certificate Pinning. Otherwise, versions of Battle Cats lower than v11.1.0 would not require any jailbreaking, rooting or any game cheating/hacking software, except for cases of usage with Android versions beyond `Nougat` (>= 7.0).
+4. Unfortunately, as of version 11.1.0, this method would require rooting/jailbreaking (as mentioned [here](https://github.com/jamestiotio/CITM/issues/7)) due to Certificate Pinning and nonces. Otherwise, versions of Battle Cats lower than v11.1.0 would not require any jailbreaking, rooting or any game cheating/hacking software, except for cases of usage with Android versions beyond `Nougat` (>= 7.0).
 
 ## Setup
 
