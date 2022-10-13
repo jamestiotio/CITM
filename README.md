@@ -12,7 +12,7 @@ This repository was made only for research and educational purposes. I am not pe
 
 Please support the developers of Battle Cats so that they can add more content for the players of Battle Cats! ヾ(°∇°\*)
 
-As part of responsible disclosure, on 9 Jan 2020, I contacted PONOS Games through [email](mailto:support_en@bc01.ponos.net), [contact/inquiry page](https://www.ponos.jp/contact/inquiry/), and [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) to check with them and update them regarding this MitM vulnerability issue. I have also suggested encrypting the data being transmitted, but they just simply banned my savegame file, so... ¯\_(ツ)\_/¯\_
+As part of responsible disclosure, on 9 Jan 2020, I contacted PONOS Games through [email](mailto:support_en@bc01.ponos.net), [contact/inquiry page](https://www.ponos.jp/contact/inquiry/), and [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) to check with them and update them regarding this MitM vulnerability issue. I have also suggested encrypting the data being transmitted, but they just simply banned my savegame file/account, so... ¯\_(ツ)\_/¯\_
 
 As of Battle Cats version 11.1.0, it seems that [Certificate Pinning](http://fiddler.wikidot.com/certpinning) and [nonces](https://en.wikipedia.org/wiki/Cryptographic_nonce) were implemented. That said, PONOS had never informed me formally/officially about this patch, even after I had responsibly disclosed this issue to them. They might have figured it out internally by themselves and decided to not inform me about it at all (or forgot to inform me).
 
