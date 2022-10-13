@@ -6,39 +6,45 @@ _"Playing it like a fiddle."_
 
 This mailbox hack allows players to acquire items and/or cats of their choice.
 
-## NOTICE
-
-This method **DOES NOT SEEM TO WORK ANY MORE** for versions v11.1.0 and above as mentioned [here](https://github.com/jamestiotio/CITM/issues/7) (at least not without root/jailbreak access), possibly due to either [Certificate Pinning](http://fiddler.wikidot.com/certpinning) or usage of nonces to prevent replay attacks. If Certificate Pinning was implemented, it might be possible to remove the pinned certificate or replace it with a self-signed certificate from Fiddler from the APK/IPA binary file of the application, but this requires root/jailbreak access (and it might be too difficult for the layperson to execute without some kind of automation script to help them do it). Unfortunately, I do not currently possess any rooted/jailbroken devices, and thus, I am unable to test this theory out. If someone else is able to conduct further investigations into this, feel free to report your findings and maybe put up an issue/PR about it. On Android, it should be possible to use [this tool](https://github.com/shroudedcode/apk-mitm) to patch the APK accordingly.
-
-That said, PONOS had never informed me formally/officially about this patch, even after I had responsibly disclosed this issue to them. They might have figured it out internally by themselves and decided to not inform me about it at all (or forgot to inform me).
-
-The legacy descriptions below will be kept as is for archival and posterity reasons.
-
 ## Disclaimer
 
 This repository was made only for research and educational purposes. I am not personally responsible in any way for any unethical malpractices because of this tool. If [PONOS](https://www.ponos.jp/) were to approach me to take down, archive or privatise this repository, I will be obliged to follow their will.
 
 Please support the developers of Battle Cats so that they can add more content for the players of Battle Cats! ヾ(°∇°\*)
 
-_UPDATE (9 Jan 2020): I kindly raised an issue regarding this MITM vulnerability to PONOS through an [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) (for the purpose of responsible disclosure) with an added suggestion of encrypting the data being transmitted but they just simply banned my savegame file, so... ¯\_(ツ)\_/¯_
+As part of responsible disclosure, on 9 Jan 2020, I contacted PONOS Games through [email](mailto:support_en@bc01.ponos.net), [contact/inquiry page](https://www.ponos.jp/contact/inquiry/), and [in-game inquiry](https://ponos.s3.dualstack.ap-northeast-1.amazonaws.com/information/appli/battlecats/contact/en/contact.html) to check with them and update them regarding this MitM vulnerability issue. I have also suggested encrypting the data being transmitted, but they just simply banned my savegame file, so... ¯\_(ツ)\_/¯\_
 
-> I am currently contacting PONOS Games through [email](mailto:support_en@bc01.ponos.net) and through their [contact/inquiry page](https://www.ponos.jp/contact/inquiry/) to check with them and update them regarding this MitM vulnerability. I will post more updates if they get back to me with any kind of statements/news/notices/messages/reports/accounts.
+As of Battle Cats version 11.1.0, it seems that [Certificate Pinning](http://fiddler.wikidot.com/certpinning) was implemented. That said, PONOS had never informed me formally/officially about this patch, even after I had responsibly disclosed this issue to them. They might have figured it out internally by themselves and decided to not inform me about it at all (or forgot to inform me).
 
 ## Features
 
 1. This hack follows a Man-in-the-Middle (MITM) network approach instead of the usual save data modification (using transfer code and confirmation code). The latter would be more easily detected by the corresponding servers if playing online.
 
-2. This method would not require any jailbreaking, rooting or any game cheating/hacking software, except for cases of usage with Android versions beyond `Nougat` (>= 7.0).
+2. As far as I know, this method is also region-insensitive since it just utilizes the main Internet connection to `ponosgames.com`, instead of taking advantage of region-specific package names and hash salts.
 
-3. As far as I know, this method is also region-insensitive since it just utilizes the main Internet connection to `ponosgames.com`, instead of taking advantage of region-specific package names and hash salts.
+3. This method allows users to specifically curate the list of items or/and cats (including expendables like Rare Tickets, Treasure Radars, EXP and Cat Food) that they desire to obtain (such as retrieving cat units locked based on story progress or past limited-edition cat units).
 
-4. This method allows users to specifically curate the list of items or/and cats (including expendables like Rare Tickets, Treasure Radars, EXP and Cat Food) that they desire to obtain (such as retrieving cat units locked based on story progress or past limited-edition cat units).
+4. Unfortunately, as of version 11.1.0, this method would require rooting/jailbreaking (as mentioned [here](https://github.com/jamestiotio/CITM/issues/7)) due to Certificate Pinning. Otherwise, versions of Battle Cats lower than v11.1.0 would not require any jailbreaking, rooting or any game cheating/hacking software, except for cases of usage with Android versions beyond `Nougat` (>= 7.0).
+
+## Setup
+
+For the following methods, rooting is required on Android and jailbreaking is required on iOS. While the instructions will be for Android, most of the steps would also be similar for iOS. Feel free to raise a Pull Request to make this section more complete!
+
+### Remove Certificate Pinning from APK
+
+On Android, it should be possible to use [this tool](https://github.com/shroudedcode/apk-mitm) to patch the APK accordingly and remove the Certificate Pinning. [This comment](https://github.com/shroudedcode/apk-mitm/issues/34#issuecomment-770393173) might also be useful since the `okhttp3` function code is obfuscated in the APK.
+
+### Install MITM Software's CA Certificate as Trusted Root CA Certificate
+
+Additionally, more effort might be needed to install the CA certificate of the MITM software of choice into the system certificate store for Android versions beyond `Q` (>= 10.0). Simply follow the instructions on [this website](https://docs.mitmproxy.org/stable/howto-install-system-trusted-ca-android/) to properly install the CA certificate.
 
 ## Usage
 
 > I will develop the `autohack.sh` script further (with maybe a Python script add-on) and maybe add some clearer `.gif` tutorial video recordings when I am less busy and have more time.
 
-We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use Wireshark, Firebug, Charles Proxy, mitmproxy, etc. and I would assume that the steps would be similar. At the time of this writing, I was using Fiddler v5.0 (and it is working for Battle Cats v9.7).
+We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use [Burp Suite](https://portswigger.net/burp), [mitmproxy](https://mitmproxy.org/), [Wireshark](https://www.wireshark.org/), [Charles Proxy](https://www.charlesproxy.com/), etc. and I would assume that the steps would be similar. At the time of this writing, I was using Fiddler v5.0 (and it is working for Battle Cats v9.7).
+
+### Fiddler
 
 Firstly, connect your mobile device (or emulator) to your computer's Internet connection (possibly through the `Mobile Hotspot` feature).
 
