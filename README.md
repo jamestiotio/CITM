@@ -30,6 +30,8 @@ As of Battle Cats version 11.1.0, it seems that [Certificate Pinning](http://fid
 
 For the following methods, rooting is required on Android and jailbreaking is required on iOS. While the instructions will be for Android, most of the steps would also be similar for iOS. Feel free to raise a Pull Request to make this section more complete!
 
+> Note that we do not need to worry about the nonces since nonces can only prevent replay attacks, not MITM attacks.
+
 ### Remove Certificate Pinning from APK
 
 On Android, it should be possible to use [this tool](https://github.com/shroudedcode/apk-mitm) to patch the APK accordingly and remove the Certificate Pinning. [This comment](https://github.com/shroudedcode/apk-mitm/issues/34#issuecomment-770393173) might also be useful since the `okhttp3` function code is obfuscated in the APK.
