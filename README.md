@@ -36,9 +36,13 @@ For the following methods, rooting is required on Android and jailbreaking is re
 
 On Android, it should be possible to use [this tool](https://github.com/shroudedcode/apk-mitm) to patch the APK accordingly and remove the Certificate Pinning. [This comment](https://github.com/shroudedcode/apk-mitm/issues/34#issuecomment-770393173) might also be useful since the `okhttp3` function code is obfuscated in the APK.
 
+Downloading the appropriate APK version can be done by using [APKCombo's APK Downloader](https://apkcombo.com/downloader). The ID for the [Battle Cats APK](https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatsen) is `jp.co.ponos.battlecatsen`.
+
 ### Install MITM Software's CA Certificate as Trusted Root CA Certificate
 
 Additionally, more effort might be needed to install the CA certificate of the MITM software of choice into the system certificate store for Android versions beyond `Q` (>= 10.0). Simply follow the instructions on [this website](https://docs.mitmproxy.org/stable/howto-install-system-trusted-ca-android/) to properly install the CA certificate.
+
+Because of this, if you use an emulator and/or have a choice on the Android version, then it is recommended to select Android 9.0 (Pie) with Google APIs (API Level 28, x86 CPU/ABI).
 
 ## Usage
 
