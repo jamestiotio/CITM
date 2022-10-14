@@ -44,7 +44,7 @@ Additionally, more effort might be needed to install the CA certificate of the M
 
 > I will develop the `autohack.sh` script further (with maybe a Python script add-on) and maybe add some clearer `.gif` tutorial video recordings when I am less busy and have more time.
 
-We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use [Burp Suite](https://portswigger.net/burp), [mitmproxy](https://mitmproxy.org/), [Wireshark](https://www.wireshark.org/), [Charles Proxy](https://www.charlesproxy.com/), etc. and I would assume that the steps would be similar. At the time of this writing, I was using Fiddler v5.0 (and it was working for Battle Cats v9.7).
+We will be using [Fiddler from Telerik](https://www.telerik.com/fiddler) since it is free, so download and install Fiddler on your computer. Of course, you could use [Burp Suite](https://portswigger.net/burp), [mitmproxy](https://mitmproxy.org/), [Wireshark](https://www.wireshark.org/), [Charles Proxy](https://www.charlesproxy.com/), etc. and I would assume that the steps would be similar. Feel free to raise a Pull Request to add instructions for other MITM software as well! At the time of this writing, I was using Fiddler v5.0 (and it was working for Battle Cats v9.7).
 
 ### Fiddler
 
